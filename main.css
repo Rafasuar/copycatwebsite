@@ -1,0 +1,66 @@
+body{
+    background-color: lightslategray;
+    background-image: url(sky.webp);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+a{
+    color: white;
+    font-weight: 600;
+    font-size: large;
+    position: relative;
+    text-decoration: none;
+    left: 20px;
+    padding: 30px;
+
+}
+
+#balloon{
+    position: relative;
+        width: 300px;
+        top: 10px;
+        right: 540px;
+}
+    
+
+#icon{
+    position: relative;
+    margin-right: 100px;
+    bottom: 35px;
+
+}
+
+
+
+
+#topnav{
+    position: absolute;
+    display: inline-block;
+    color: white;
+    font-size: large;
+    left: 100px;
+    top: 40px;
+    width: 350px;
+}
+
+.links{
+    position: relative;
+    display: block;
+    left: 600px;
+    bottom: 290px;
+}
+
+.hero{
+    position: absolute;
+    display: block;
+    width: 10;
+    left: 100;
+}
+
+#header{
+    position: relative;
+    display: block;
+    left: 760px;
+    top: -90px;
+}
